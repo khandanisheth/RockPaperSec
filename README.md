@@ -14,9 +14,7 @@ A simple interactive Rock-Paper-Scissors web game built using HTML, CSS, and Jav
 
 ---
 
-## 📸 Preview
-
-![Game Screenshot](./img/preview.png) <!-- Add actual screenshot if available -->
+Game Screenshot](./img/preview.png) <!-- Add actual screenshot if available -->
 
 ---
 
